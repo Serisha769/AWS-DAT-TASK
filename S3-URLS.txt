@@ -1,0 +1,3 @@
+https://s3-rearcdataquest.s3.amazonaws.com/data.json
+https://s3-rearcdataquest.s3.amazonaws.com/pr.data.0.Current
+likewise the other files available at https://download.bls.gov/pub/time.series/pr/ can be tested wiht the same bucket URL prefix
